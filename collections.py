@@ -23,6 +23,7 @@ nomesL.remove('Dayse') #deletando por valor
 print(nomesL)
 print("--------------------------------\n")
 
+
 #Sets (Conjuntos)
 print("Sobre Sets")
 nomesS = {'Mario', 'Luigi', 'Peach', 'Dayse'}
