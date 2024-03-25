@@ -16,6 +16,7 @@ print(np.flip(np.concatenate([array51, np.sort(array100)])))
 matriz1 = np.ones([3, 4])
 print(matriz1.reshape(12))
 
+
 #Ex5
 matriz = np.zeros([5, 4])
 numL = matriz.shape[0]
